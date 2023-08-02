@@ -1,0 +1,27 @@
+{
+  "name": "rapidchat-realtime-chat-app",
+  "version": "1.0.0",
+  "description": "Real-time chat application using Node.js, Socket.io, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimfevzi/RapidChat-Realtime-Chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimfevzi/RapidChat-Realtime-Chat-App/issues"
+  },
+  "homepage": "https://github.com/ibrahimfevzi/RapidChat-Realtime-Chat-App#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1",
+    "socket.io": "^4.7.1"
+  }
+}

@@ -1,0 +1,91 @@
+.sendButton {
+  border-radius: 0;
+  margin-top: 10px;
+  float: right;
+}
+
+.card {
+  padding: 10px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #25d366;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Header */
+h1 {
+  color: #25d366;
+  margin-bottom: 20px;
+}
+
+/* User Count */
+#txtTotalUserCount {
+  font-weight: bold;
+}
+
+/* Join Room Screen */
+#areaJoinRoom {
+  text-align: center;
+}
+
+/* Join Room Button */
+.btn-join {
+  background-color: #25d366;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Popular Topics */
+.badge {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+/* Room Screen */
+#areaRoomScreen {
+  display: none;
+}
+
+/* Room User Count */
+#txtRoomUserCount {
+  font-weight: bold;
+}
+
+/* Welcome Room */
+#txtWelcomeRoom {
+  color: #25d366;
+  margin-bottom: 20px;
+}
+
+/* Room Users List */
+#txtRoomUsers li {
+  margin-bottom: 5px;
+}
+
+/* Message Input */
+#txtMessage {
+  resize: none;
+  margin-bottom: 10px;
+}
+
+/* Send Message Button */
+.sendButton {
+  background-color: #25d366;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
